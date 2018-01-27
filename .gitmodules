@@ -1,4 +1,0 @@
-[submodule "ps.plainsurf.com"]
-	path = ps.plainsurf.com
-	url = git@github.com:shaikh1280/ps.plainsurf.com.git
-	branch = master
